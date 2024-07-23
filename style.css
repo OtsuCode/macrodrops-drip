@@ -21,6 +21,7 @@ p{
   align-content: center;
   justify-content: center;
   text-align: center;
+  line-height: 30px
 }
 
 .title{
@@ -30,6 +31,7 @@ p{
 }
 
 .wrapper{
+  width: 270px;
   position: absolute;
   top: 45%;
   left: 50%;
@@ -42,6 +44,7 @@ p{
 }
 
 input{
+  height: 25px;
   outline: none;
   border: none;
   padding: 5px;
@@ -58,5 +61,13 @@ button{
   display: block;
   margin-top: 10px;
   cursor: pointer;
+  
 }
 
+
+
+#btn{
+  width: 200px;
+  margin: auto;
+  margin-top: 35px;
+}
